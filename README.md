@@ -24,6 +24,10 @@ I had to revamp the architecture, update the smart contracts, and PINÃTA cloud 
 
 7. Finally, deploy the app and start enjoying your NFT marketplace.
 
-Built by [GAC DEV](https://geniusandcourage.com)
+## in Action
+
+![GAC Logo](https://geniusandcourage.com/favicon.ico)
+
+Nft Market Place by [GAC DEV](https://geniusandcourage.com)
 
 ![Nft Market Place](https://hlwsdtech.com:8081/images/BuyNFT.jpg)
