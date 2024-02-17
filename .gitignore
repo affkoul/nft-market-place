@@ -27,10 +27,10 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env.development
-.env.production
+#.env.development
+#.env.production
 
-keys.json
+#keys.json
 
 # vercel
 .vercel
