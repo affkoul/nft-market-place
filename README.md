@@ -18,11 +18,13 @@ I had to revamp the architecture, update the smart contracts, and PINÃTA cloud 
 
 4. Since we are deploying the demo on Sepolia Test Network, make sure you register for one and configure the file keys.json properly.
 
-5. While at the root directory of the project, use truffle to migrate and deploy the smart contracts on the Sepolia Test Network of the Ethereum blockchain.
+5. I used Ganache to test the smart contracts locally: therefore remember to link truffle with your Ganache.
 
-6. Then, use npm build to build the app.
+6. While at the root directory of the project, use truffle to migrate and deploy the smart contracts on the Sepolia Test Network of the Ethereum blockchain.
 
-7. Finally, deploy the app and start enjoying your NFT marketplace.
+7. Then, use npm build to build the app.
+
+8. Finally, deploy the app and start enjoying your NFT marketplace.
 
 ## In Action
 
