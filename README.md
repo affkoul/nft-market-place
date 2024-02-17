@@ -4,7 +4,7 @@ Nft Market Place
 
 ## Big Thanks
 
-To Filip Jerga Software Engineer Instructor on Udemy.com
+To Filip Jerga Software Engineer Instructor on Udemy.com.
 
 I had to revamp the architecture, update the smart contracts, and PINÃTA cloud usage syntaxes for the app to work in the world of React state loading and management sequence.
 
@@ -24,7 +24,7 @@ I had to revamp the architecture, update the smart contracts, and PINÃTA cloud 
 
 7. Finally, deploy the app and start enjoying your NFT marketplace.
 
-## in Action
+## In Action
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
